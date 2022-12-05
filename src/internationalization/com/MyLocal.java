@@ -8,6 +8,7 @@ public class MyLocal {
         System.out.println("country is:"+loc.getCountry());
         System.out.println("language is:"+loc.getLanguage());
         System.out.println("display country is:"+loc.getDisplayCountry());
+        System.out.println("display language is:"+loc.getDisplayLanguage());
 
 
     }
