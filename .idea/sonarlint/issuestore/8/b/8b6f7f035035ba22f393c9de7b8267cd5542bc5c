@@ -1,0 +1,17 @@
+
+L
+java:S3740"/Provide the parametrized type for this generic.(ö¿8æÑõ’Í0
+Q
+java:S3740"/Provide the parametrized type for this generic.(ºíÚ‹şÿÿÿÿ8Ë ö’Í0
+o
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÃªÄ…
+m	java:S1276"XRefactor the code in order to not assign to this loop counter from within the loop body.(Â¨•ù
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÎÃÙÂşÿÿÿÿ
+S	java:S106	"9Replace this use of System.out or System.err by a logger.(ÁÊù¹şÿÿÿÿ
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(çÂª–üÿÿÿÿ8®Òõ’Í0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(áĞİî8³ÿõ’Í0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(áĞİî8ö ö’Í0
+U	java:S106$"9Replace this use of System.out or System.err by a logger.(áĞİî8¾Åö’Í0
+U	java:S106("9Replace this use of System.out or System.err by a logger.(áĞİî8Şîö’Í0
+Z	java:S106+"9Replace this use of System.out or System.err by a logger.(ùŒ©‘ûÿÿÿÿ8«Œ÷’Í0
+U	java:S106/"9Replace this use of System.out or System.err by a logger.(áĞİî8ÿ¯÷’Í0

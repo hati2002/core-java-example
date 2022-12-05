@@ -1,0 +1,66 @@
+
+9
+java:S2129"Remove this "Byte" constructor(ñ‰‹Úÿÿÿÿÿ
+G
+java:S1874",Remove this use of "Byte"; it is deprecated.(ñ‰‹Úÿÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(š—°øÿÿÿÿ
+G
+java:S1874",Remove this use of "Byte"; it is deprecated.(¹Ğ‰Ùüÿÿÿÿ
+N	java:S106	"9Replace this use of System.out or System.err by a logger.(—Ş“
+:
+java:S2129"Remove this "Short" constructor(»´ÁÕşÿÿÿÿ
+H
+java:S1874"-Remove this use of "Short"; it is deprecated.(»´ÁÕşÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Å­Ëİúÿÿÿÿ
+C
+java:S1874"-Remove this use of "Short"; it is deprecated.(‚Íÿæ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Î’ÛÚ
+7
+java:S2129"!Remove this "Integer" constructor(³ºœœ
+E
+java:S1874"/Remove this use of "Integer"; it is deprecated.(³ºœœ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(´‹¹öşÿÿÿÿ
+E
+java:S1874"/Remove this use of "Integer"; it is deprecated.(×¯¹Ñ
+M	java:S106"9Replace this use of System.out or System.err by a logger.(÷Å‘Y
+9
+java:S2129"Remove this "Long" constructor(Ç¾²áşÿÿÿÿ
+G
+java:S1874",Remove this use of "Long"; it is deprecated.(Ç¾²áşÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(êğ»ıÿÿÿÿ
+G
+java:S1874",Remove this use of "Long"; it is deprecated.(¹Û†êÿÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÍúÀªÿÿÿÿÿ
+:
+java:S2129"Remove this "Float" constructor(Éé³Şûÿÿÿÿ
+H
+java:S1874"-Remove this use of "Float"; it is deprecated.(Éé³Şûÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(‡¤Ÿ”
+H
+java:S1874 "-Remove this use of "Float"; it is deprecated.(î¬êĞùÿÿÿÿ
+N	java:S106!"9Replace this use of System.out or System.err by a logger.(š”éú
+6
+java:S2129#" Remove this "Double" constructor(´¨Ğœ
+D
+java:S1874#".Remove this use of "Double"; it is deprecated.(´¨Ğœ
+N	java:S106$"9Replace this use of System.out or System.err by a logger.(¯ô¢ô
+I
+java:S1874&".Remove this use of "Double"; it is deprecated.(­«µûÿÿÿÿ
+N	java:S106'"9Replace this use of System.out or System.err by a logger.(³ÎÄò
+<
+java:S2129)"!Remove this "Boolean" constructor(­Áâõúÿÿÿÿ
+J
+java:S1874)"/Remove this use of "Boolean"; it is deprecated.(­Áâõúÿÿÿÿ
+S	java:S106*"9Replace this use of System.out or System.err by a logger.(ÜÄ´áøÿÿÿÿ
+E
+java:S1874,"/Remove this use of "Boolean"; it is deprecated.(Õí’ƒ
+N	java:S106-"9Replace this use of System.out or System.err by a logger.(úäÚû
+J
+java:S1874/"/Remove this use of "Boolean"; it is deprecated.(×îŸ÷üÿÿÿÿ
+N	java:S1060"9Replace this use of System.out or System.err by a logger.(Ô´÷È
+9
+java:S21292"#Remove this "Character" constructor(¦«Æ™
+G
+java:S18742"1Remove this use of "Character"; it is deprecated.(¦«Æ™
+N	java:S1063"9Replace this use of System.out or System.err by a logger.(Áß‡Ü
+Q	java:S1256"<This block of commented-out lines of code should be removed.(â¬üÄ
