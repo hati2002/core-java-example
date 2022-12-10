@@ -1,0 +1,8 @@
+
+N	java:S106
+"9Replace this use of System.out or System.err by a logger.(‹š¬ú
+V	java:S125"<This block of commented-out lines of code should be removed.(ÄÙåýÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(·üÉøÿÿÿÿ
+V
+java:S1612"@Replace this lambda with method reference 'System.out::println'.(‹¬ú¶
+N	java:S106"9Replace this use of System.out or System.err by a logger.(‹¬ú¶

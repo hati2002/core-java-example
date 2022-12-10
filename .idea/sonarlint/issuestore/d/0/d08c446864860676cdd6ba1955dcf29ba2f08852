@@ -1,0 +1,13 @@
+
+P	java:S125"<This block of commented-out lines of code should be removed.(ÑåËv
+V	java:S125"<This block of commented-out lines of code should be removed.(´ˆàÚøÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(µ¨‡±ùÿÿÿÿ
+E
+java:S1611"/Remove the parentheses around the "n" parameter(ô§êø
+V
+java:S1612"@Replace this lambda with method reference 'System.out::println'.(ô§êø
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ô§êø
+M
+java:S1611"2Remove the parentheses around the "name" parameter(Ñ˜ªúÿÿÿÿ
+M	java:S106""9Replace this use of System.out or System.err by a logger.(âùÏ=
+S	java:S106%"9Replace this use of System.out or System.err by a logger.(Ãàûùÿÿÿÿ
