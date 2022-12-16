@@ -20,6 +20,7 @@ public class MyLinkList {
          l.add(s);
          l.addFirst(2);
          l.addLast(55);
+
         System.out.println(l);
         System.out.println(l.getFirst());
         System.out.println(l.getLast());
